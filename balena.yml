@@ -23,6 +23,7 @@ data:
     - UPDATE_HOUR: 9
     - TZ: Europe/London
     - QOD_CATEGORY: inspire
+    - QOD_API_KEY: MY_TOKEN
     - FONT: AmaticSC
     - TEST_CHARACTER: a
   defaultDeviceType: raspberry-pi
